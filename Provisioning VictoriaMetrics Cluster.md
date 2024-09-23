@@ -4,7 +4,7 @@ VictoriaMetrics merupakan time-series database yang didesain untuk high-performa
 
 **Jalankan di Node Control Plane**
 
-1. Tambahkan VictoriaMetrics Helm Repository lalu update repo
+1. Tambahkan VictoriaMetrics Helm Repository lal update repo
 
    ```bash
    ## Add VM repo
