@@ -1,4 +1,4 @@
-### Install VictoriaMetrics Cluster (masih belum bener anjirrr)))
+### Install VictoriaMetrics Cluster (masih belum bener anjirrr)
 
 VictoriaMetrics merupakan time-series database yang didesain untuk high-performance monitoring dan analytics. VictoriaMetrics mirip dengan Prometheus disegala aspeknya, akan tetapi memiliki bebarapa kelebihan termasuk perfoma dan skalabilitas yang lebih baik. VictoriaMetrics juga berbasis open-source.
 
