@@ -1,5 +1,10 @@
 ### Install VictoriaMetrics Cluster (masih belum bener anjirrr)
 
+**Coba ini nanti**
+- https://itnext.io/victoriametrics-deploying-a-kubernetes-monitoring-stack-8b9061112077
+- https://docs.victoriametrics.com/helm/victoriametrics-k8s-stack/
+
+  
 VictoriaMetrics merupakan time-series database yang didesain untuk high-performance monitoring dan analytics. VictoriaMetrics mirip dengan Prometheus disegala aspeknya, akan tetapi memiliki bebarapa kelebihan termasuk perfoma dan skalabilitas yang lebih baik. VictoriaMetrics juga berbasis open-source.
 
 **Jalankan di Node Control Plane**
